@@ -1,1 +1,2 @@
 # Calculator
+This is a simple calculator made using HTML, CSS, and JavaScript. It allows users to perform basic math operations like addition, subtraction, multiplication, and division. The calculator has a clean design with buttons for numbers and symbols, and a display screen to show the result. Users can click the buttons or use their keyboard to enter numbers. The display updates in real time, and there’s also a clear button to reset everything. It works smoothly on different devices and gives a neat, user-friendly experience.
